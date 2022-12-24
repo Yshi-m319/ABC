@@ -1,0 +1,2 @@
+﻿  ソース.cpp
+C:\Users\ibuki\source\repos\ABC\ABC281\ソース.cpp(21): error C4700: 初期化されていないローカル変数 'n' が使用されます
